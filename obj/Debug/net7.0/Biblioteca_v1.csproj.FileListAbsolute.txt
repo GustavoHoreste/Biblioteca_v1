@@ -1,0 +1,15 @@
+C:\LivroDeCsharp\CAP5\Biblioteca_v1\bin\Debug\net7.0\Biblioteca_v1.exe
+C:\LivroDeCsharp\CAP5\Biblioteca_v1\bin\Debug\net7.0\Biblioteca_v1.dll
+C:\LivroDeCsharp\CAP5\Biblioteca_v1\obj\Debug\net7.0\Biblioteca_v1.csproj.AssemblyReference.cache
+C:\LivroDeCsharp\CAP5\Biblioteca_v1\obj\Debug\net7.0\Biblioteca_v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\LivroDeCsharp\CAP5\Biblioteca_v1\obj\Debug\net7.0\Biblioteca_v1.AssemblyInfoInputs.cache
+C:\LivroDeCsharp\CAP5\Biblioteca_v1\obj\Debug\net7.0\Biblioteca_v1.AssemblyInfo.cs
+C:\LivroDeCsharp\CAP5\Biblioteca_v1\obj\Debug\net7.0\Biblioteca_v1.csproj.CoreCompileInputs.cache
+C:\LivroDeCsharp\CAP5\Biblioteca_v1\obj\Debug\net7.0\Biblioteca_v1.dll
+C:\LivroDeCsharp\CAP5\Biblioteca_v1\obj\Debug\net7.0\refint\Biblioteca_v1.dll
+C:\LivroDeCsharp\CAP5\Biblioteca_v1\obj\Debug\net7.0\Biblioteca_v1.pdb
+C:\LivroDeCsharp\CAP5\Biblioteca_v1\bin\Debug\net7.0\Biblioteca_v1.deps.json
+C:\LivroDeCsharp\CAP5\Biblioteca_v1\bin\Debug\net7.0\Biblioteca_v1.runtimeconfig.json
+C:\LivroDeCsharp\CAP5\Biblioteca_v1\bin\Debug\net7.0\Biblioteca_v1.pdb
+C:\LivroDeCsharp\CAP5\Biblioteca_v1\obj\Debug\net7.0\Biblioteca_v1.genruntimeconfig.cache
+C:\LivroDeCsharp\CAP5\Biblioteca_v1\obj\Debug\net7.0\ref\Biblioteca_v1.dll
